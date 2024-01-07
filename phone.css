@@ -1,0 +1,43 @@
+/* HOME */
+
+#home {
+    height: 820px;
+}
+
+.heading {
+    font-size: 1.7rem;
+}
+
+/* ABOUT */
+
+#pic img {
+    width: 300px;
+    height: 175px;
+}
+
+#intro h2 {
+    font-size: 1.5rem;
+}
+
+/* PORTFOLIO */
+
+.gallery img {
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+}
+
+/* CONTACT */
+
+.input {
+    width: 60%;
+}
+
+#msg {
+    width: 60%;
+}
+
+#send {
+    width: 20%;
+}
+
